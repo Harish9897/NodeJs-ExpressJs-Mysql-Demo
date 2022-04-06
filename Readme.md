@@ -1,4 +1,4 @@
-# Demo for Work Life Banlancer
+# Demo for NodeJs-ExpressJs-Mysql-Demo
 
 Step 1:
 
