@@ -1,4 +1,4 @@
-# Demo for NodeJs-ExpressJs-Mysql-Demo
+# NodeJs-ExpressJs-Mysql-Demo
 
 Step 1:
 
