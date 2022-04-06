@@ -1,0 +1,11 @@
+body {
+  background-color: #f3c684;
+}
+.navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.green_bg {
+  background-color: #e1e9d9 !important;
+}

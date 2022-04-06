@@ -1,0 +1,14 @@
+{"name":"balancelife","version":"0.0.1",
+  "description":"Web App for reminder notification",
+  "server":"server.js",
+  "scripts":{"test":"echo \"Error: no test specified\" && exit 1"},
+  "author":"Harish Singh Bisht",
+  "dependencies":
+  {"dotenv":"^16.0.0","ejs":"^3.1.6",
+    "express":"^4.17.3","mysql2":"^2.3.3",
+    "node-schedule":"^2.1.0",
+    "nodemon":"^2.0.15",
+    "sequelize":"^6.17.0",
+    "web-push":"^3.4.5"
+  }
+}
